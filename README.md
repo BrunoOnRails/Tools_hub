@@ -2,7 +2,7 @@
 
 Central para exibir e acessar suas ferramentas desenvolvidas.
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 tools-hub/
@@ -15,7 +15,7 @@ tools-hub/
 └── README.md         # Este arquivo
 ```
 
-## 🚀 Como adicionar/remover projetos
+## Como adicionar/remover projetos
 
 Edite o arquivo `projects.json`. Cada projeto tem 3 campos:
 
@@ -63,7 +63,7 @@ Edite o arquivo `projects.json`. Cada projeto tem 3 campos:
 - **Rota interna:** `/minha-ferramenta` → vai para `seusite.com/minha-ferramenta`
 - **Link externo:** `https://outra-url.com/ferramenta` → abre o site externo
 
-## 🌐 Deploy
+## Deploy
 
 ### Vercel
 
@@ -85,7 +85,7 @@ Edite o arquivo `projects.json`. Cada projeto tem 3 campos:
 
 Ambas as plataformas permitem configurar um domínio próprio gratuitamente nas configurações do projeto.
 
-## 🎨 Personalização
+## Personalização
 
 ### Cores
 
@@ -108,6 +108,6 @@ No `index.html`, procure pelos textos no `<header>`:
 - `Central de Ferramentas` - Título principal
 - `@BrunoOnRails` - Seu username
 
-## 📝 Licença
+## Licença
 
 Uso livre. Faça o que quiser com o código!
