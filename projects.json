@@ -1,20 +1,7 @@
 [
-  {
-    "id": "exemplo-calculadora",
-    "nome": "Calculadora de Impostos",
-    "descricao": "Ferramenta para cálculo automático de CBS/IBS conforme a reforma tributária",
-    "link": "/calculadora"
-  },
-  {
-    "id": "exemplo-gerador-xml",
-    "nome": "Gerador XML NFS-e",
-    "descricao": "Gera arquivos XML no padrão Nacional para Notas Fiscais de Serviço",
-    "link": "/nfse-generator"
-  },
-  {
-    "id": "exemplo-consulta-ncm",
-    "nome": "Consulta NCM",
-    "descricao": "Busca e validação de códigos NCM com alíquotas atualizadas",
-    "link": "/consulta-ncm"
-  }
+{
+  "nome": "Excel Format SQL",
+  "descricao": "Ferramenta para facilitar extração de dados do Excel para usar em SQLs",
+  "link": "/ExcelFormatSql"
+}
 ]
