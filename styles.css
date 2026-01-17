@@ -149,6 +149,12 @@ h1 {
 
 .highlight {
   color: var(--accent);
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.highlight:hover {
+  opacity: 0.8;
 }
 
 /* Stats */
