@@ -63,28 +63,6 @@ Edite o arquivo `projects.json`. Cada projeto tem 3 campos:
 - **Rota interna:** `/minha-ferramenta` → vai para `seusite.com/minha-ferramenta`
 - **Link externo:** `https://outra-url.com/ferramenta` → abre o site externo
 
-## Deploy
-
-### Vercel
-
-1. Crie uma conta em [vercel.com](https://vercel.com)
-2. Conecte seu repositório GitHub
-3. Selecione o repositório `tools-hub`
-4. Clique em "Deploy"
-5. Pronto! Seu site estará em `seu-projeto.vercel.app`
-
-### Netlify
-
-1. Crie uma conta em [netlify.com](https://netlify.com)
-2. Clique em "Add new site" → "Import an existing project"
-3. Conecte seu GitHub e selecione o repositório
-4. Clique em "Deploy site"
-5. Pronto! Seu site estará em `seu-projeto.netlify.app`
-
-### Domínio personalizado
-
-Ambas as plataformas permitem configurar um domínio próprio gratuitamente nas configurações do projeto.
-
 ## Personalização
 
 ### Cores
