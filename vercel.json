@@ -6,7 +6,7 @@
     },
     {
       "source": "/ExcelFormatSql/:path*",
-      "destination": "https://excelformatsql.vercel.app/:path*"
+      "destination": "https://excel-format-sql.vercel.app/:path*"
     }
   ]
 }
