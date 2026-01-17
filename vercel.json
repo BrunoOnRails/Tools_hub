@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/ExcelFormatSql",
-      "destination": "https://excelformatsql.vercel.app"
+      "destination": "https://excel-format-sql.vercel.app"
     },
     {
       "source": "/ExcelFormatSql/:path*",
