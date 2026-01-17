@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/ExcelFormatSql",
+      "destination": "https://excelformatsql.vercel.app"
+    },
+    {
+      "source": "/ExcelFormatSql/:path*",
+      "destination": "https://excelformatsql.vercel.app/:path*"
+    }
+  ]
+}
