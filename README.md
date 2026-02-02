@@ -2,35 +2,22 @@
 
 Central para exibir e acessar suas ferramentas desenvolvidas.
 
-## Estrutura
-
-```
-tools-hub/
-├── index.html        # Página principal (HTML)
-├── styles.css        # Estilos visuais
-├── js/
-│   ├── particles.js  # Efeito Particle Network
-│   └── main.js       # Lógica de carregamento dos projetos
-├── projects.json     # Configuração dos projetos (edite este arquivo!)
-└── README.md         # Este arquivo
-```
-
 ## Como adicionar/remover projetos
 
-Edite o arquivo `projects.json`. Cada projeto tem 3 campos:
+Editar o arquivo `projects.json`. Cada projeto tem 3 campos:
 
 ```json
 [
   {
-    "id": "identificador-unico",
-    "nome": "Nome da Ferramenta",
-    "descricao": "Breve descrição do que a ferramenta faz",
+    "id",
+    "nome",
+    "descricao",
     "link": "/caminho-da-ferramenta"
   }
 ]
 ```
 
-### Exemplo prático
+### Exemplo
 
 ```json
 [
