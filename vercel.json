@@ -7,6 +7,14 @@
     {
       "source": "/ExcelFormatSql/:path*",
       "destination": "https://excel-format-sql.vercel.app/:path*"
+    },
+    {
+      "source": "/TiraAcentoDeJSON",
+      "destination": "https://jsonaccentremover.vercel.app"
+    },
+    {
+      "source": "/TiraAcentoDeJSON/:path*",
+      "destination": "https://jsonaccentremover.vercel.app/:path*"
     }
   ]
 }
