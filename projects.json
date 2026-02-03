@@ -5,10 +5,3 @@
   "link": "/ExcelFormatSql"
 }
 ]
-[
-  {
-  "nome": "Json sanitizer",
-  "descricao": "Ferramenta para limpar json e diminuir seu tamanho",
-  "link": "/jsonaccentremover"
-}
-]
