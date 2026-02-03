@@ -1,12 +1,14 @@
 [
-{
-  "nome": "Excel Format SQL",
-  "descricao": "Ferramenta para facilitar extração de dados do Excel para usar em SQLs",
-  "link": "/ExcelFormatSql"
-},
-{
-  "nome": "Json sanitizer",
-  "descricao": "Ferramenta para limpar e reduziar o tamanho de um json",
-  "link": "/jsonaccentremover"
-}
+  {
+    "id": "excel-format-sql",
+    "nome": "Excel Format SQL",
+    "descricao": "Ferramenta para formatar SQL a partir de Excel",
+    "link": "/ExcelFormatSql"
+  },
+  {
+    "id": "tira-acento-json",
+    "nome": "Tira Acento de JSON",
+    "descricao": "Remove acentos de strings em arquivos JSON",
+    "link": "/TiraAcentoDeJSON"
+  }
 ]
