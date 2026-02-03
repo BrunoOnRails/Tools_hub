@@ -4,4 +4,10 @@
   "descricao": "Ferramenta para facilitar extração de dados do Excel para usar em SQLs",
   "link": "/ExcelFormatSql"
 }
+
+  {
+  "nome": "Json sanitizer",
+  "descricao": "Ferramenta para limpar json e diminuir seu tamanho",
+  "link": "/jsonaccentremover"
+}
 ]
