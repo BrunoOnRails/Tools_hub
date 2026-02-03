@@ -1,12 +1,10 @@
 [
   {
-    "id": "excel-format-sql",
     "nome": "Excel Format SQL",
     "descricao": "Ferramenta para formatar SQL a partir de Excel",
     "link": "/ExcelFormatSql"
   },
   {
-    "id": "tira-acento-json",
     "nome": "Tira Acento de JSON",
     "descricao": "Remove acentos de strings em arquivos JSON",
     "link": "/TiraAcentoDeJSON"
